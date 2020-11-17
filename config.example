@@ -1,0 +1,5 @@
+config={
+    'login':'email@yandex.ru',
+    'password':'YOUR_PASSWORD',
+    'id':'2000000159'
+}
